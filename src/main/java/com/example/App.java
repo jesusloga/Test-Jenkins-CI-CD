@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "To test CI/CD jenkin-git push!" );
+        System.out.println( "To test CI/CD jenkin-git pull action!" );
     }
 }
